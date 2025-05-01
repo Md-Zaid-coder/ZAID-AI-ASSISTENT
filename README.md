@@ -10,7 +10,7 @@ Contents of .env file:
 
 ```
 USER=None
-BOTNAME=JARVIS
+BOTNAME=ZAID
 EMAIL=None
 PASSWORD=None
 NEWS_API_KEY=None
